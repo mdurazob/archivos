@@ -11342,7 +11342,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "San Baltazar Yatzachi el Alto, Oaxaca"
+        "nombre": "San Baltazar Yatzachi el Bajo, Oaxaca"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19807,7 +19807,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "San Pedro el , Oaxaca"
+        "nombre": "San Pedro el Alto, Oaxaca"
       },
       "geometry": {
         "type": "MultiPolygon",
