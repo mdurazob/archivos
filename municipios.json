@@ -10912,7 +10912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "San Antonino el , Oaxaca"
+        "nombre": "San Antonino el Alto, Oaxaca"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11342,7 +11342,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "San Baltazar Yatzachi el , Oaxaca"
+        "nombre": "San Baltazar Yatzachi el Alto, Oaxaca"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56718,7 +56718,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Xcan, Tlaxcala"
+        "nombre": "Xaltocan, Tlaxcala"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61634,7 +61634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "tonga, Veracruz de Ignacio de la Llave"
+        "nombre": "Altotonga, Veracruz de Ignacio de la Llave"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66152,7 +66152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Tampico , Veracruz de Ignacio de la Llave"
+        "nombre": "Tampico Alto, Veracruz de Ignacio de la Llave"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68092,7 +68092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Lucero de Gutierrez Barrios, Veracruz de Ignacio de la Llave"
+        "nombre": "Alto Lucero de Gutierrez Barrios, Veracruz de Ignacio de la Llave"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79494,7 +79494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Sain , Zacatecas"
+        "nombre": "Sain Alto, Zacatecas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92442,7 +92442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "S de Agua, Chiapas"
+        "nombre": "Salto de Agua, Chiapas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105601,7 +105601,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Apaseo el , Guanajuato"
+        "nombre": "Apaseo el Alto, Guanajuato"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116907,7 +116907,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Atotonilco el , Jalisco"
+        "nombre": "Atotonilco el Alto, Jalisco"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118442,7 +118442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Huejuquilla el , Jalisco"
+        "nombre": "Huejuquilla el Alto, Jalisco"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120062,7 +120062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "El S, Jalisco"
+        "nombre": "El Salto, Jalisco"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120450,7 +120450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "San Miguel el , Jalisco"
+        "nombre": "San Miguel el Alto, Jalisco"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121548,7 +121548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Tizapan el , Jalisco"
+        "nombre": "Tizapan el Alto, Jalisco"
       },
       "geometry": {
         "type": "MultiPolygon",
